@@ -41,6 +41,9 @@ python manage.py createsuperuser
 6. Run the development server:
 python manage.py runserver
 
+```python
+python manage.py runserver
+```
 
 
 
