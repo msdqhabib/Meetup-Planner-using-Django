@@ -45,6 +45,26 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+The application will now be available at `http://localhost:8000`.
+
+## Usage
+
+To use Meetup Planner, open your web browser and go to `http://localhost:8000`. From there, you can sign up or log in to your account, create and join meetups, and search for meetups.
+
+## Contributing
+
+If you would like to contribute to Meetup Planner, you can follow these steps:
+
+1. Fork this repository.
+2. Create a new branch for your feature or bug fix.
+3. Write your code and add tests if possible.
+4. Submit a pull request.
+
+## License
+
+Meetup Planner is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+
 
 
 
